@@ -1,0 +1,15 @@
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\bin\Debug\net6.0\Campeonatos.exe
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\bin\Debug\net6.0\Campeonatos.deps.json
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\bin\Debug\net6.0\Campeonatos.runtimeconfig.json
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\bin\Debug\net6.0\Campeonatos.dll
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\bin\Debug\net6.0\Campeonatos.pdb
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\obj\Debug\net6.0\Campeonatos.csproj.AssemblyReference.cache
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\obj\Debug\net6.0\Campeonatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\obj\Debug\net6.0\Campeonatos.AssemblyInfoInputs.cache
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\obj\Debug\net6.0\Campeonatos.AssemblyInfo.cs
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\obj\Debug\net6.0\Campeonatos.csproj.CoreCompileInputs.cache
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\obj\Debug\net6.0\Campeonatos.dll
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\obj\Debug\net6.0\refint\Campeonatos.dll
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\obj\Debug\net6.0\Campeonatos.pdb
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\obj\Debug\net6.0\Campeonatos.genruntimeconfig.cache
+C:\Users\alanj\OneDrive\Documentos\Ejercicios\Clubes\Campeonatos\obj\Debug\net6.0\ref\Campeonatos.dll
